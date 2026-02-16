@@ -1,9 +1,9 @@
-# 👋  I'm  Asilbek
+# 👋  I'm  Diyorbek
 
 💻 Frontend Developer | 🎨 UI Builder | ⚡️ JavaScript Enthusiast  
 
 ✨ I build modern, responsive, and clean web interfaces using  
-HTML, CSS, Tailwind CSS, and JavaScript.
+HTML, CSS, Tailwind CSS, JavaScript and React.
 
 ---
 
@@ -54,7 +54,7 @@ HTML, CSS, Tailwind CSS, and JavaScript.
 
 ## 👤 Author
 
-Qahramonov Asilbek
+Aslonov Diyorbek
 
 <!--
 asilbek-ai/asilbek-ai is a ✨ _special_ ✨ repository because its README.md (this file) appears on your GitHub profile.
